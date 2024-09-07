@@ -15,4 +15,4 @@ Start Browser
     New Page       ${BASE_URL}
 
 Finish Browser
-    Take Screenshot    fullPage=true
+    Take Screenshot    fullPage=false

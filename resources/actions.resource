@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation       Camada de ações da funcionalidade de login
 
-Library             Browser
+Library        Browser
 
 *** Keywords ***
 Submit Credentials
